@@ -1,4 +1,4 @@
-# dead
+# dead :skull:
 Dead simple live reloading for Go web servers
 
 # TODO
