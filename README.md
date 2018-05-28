@@ -1,4 +1,8 @@
 # dead :skull:
+
+[![GoDoc](https://godoc.org/github.com/tomyl/dead?status.png)](http://godoc.org/github.com/tomyl/dea)
+[![Go Report Card](https://goreportcard.com/badge/github.com/tomyl/dead)](https://goreportcard.com/report/github.com/tomyl/dead)
+
 Dead simple live reloading for Go web servers
 
 # Usage
