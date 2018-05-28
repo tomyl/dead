@@ -8,6 +8,6 @@ import (
 )
 
 func main() {
-	dead.Default().Watch(".").Main()
+	dead.Default().Watch(".", "templates", "server/*").Main()
 	log.Fatal(http.ListenAndServe(":8080", nil))
 }
